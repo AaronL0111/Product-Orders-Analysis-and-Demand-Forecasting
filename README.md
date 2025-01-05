@@ -36,11 +36,12 @@ Libraries: pandas, numpy, matplotlib, seaborn, and scikit-learn.
 6. Follow the instructions within each notebook to run the analyses and models.
 
 ## Data Analysis and Modeling Notebook
-For a detailed understanding of the data preprocessing and the predictive model, check out the Jupyter notebook named 
+For a detailed understanding of the data preprocessing and the predictive model, check out the Jupyter notebook named Visualization and Analysis and Gradient Boosting Tree Model.
 
 ## Data sources
 
-The data used for this project is from BdRace, which can be found [here]([https://agriculture.canada.ca/en/market-information-system/rp/index%2Deng.cfm?action=ePR&R=243&PDCTC=#clfinput_err](https://www.tipdm.org:10010/#/competition/1620719578957127680/introduce)). 
+The data used for this project is from BdRace, which can be found [here](https://www.tipdm.org:10010/#/competition/1620719578957127680/introduce).
+
 
 ## Contributors
 - Aaron Liu
