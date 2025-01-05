@@ -1,7 +1,7 @@
 # Product-Orders-Analysis-and-Demand-Forecasting
 
 ## Project Objective
-Demand forecasting plays a vital role in supply chain management, enabling businesses to optimize procurement, inventory, and production while identifying market trends and planning for future operations. This project focuses on analyzing order quantities for various products, uncovering trends and relationships with influencing factors, and developing a predictive model to accurately forecast future demand. By doing so, it aims to enhance organizational efficiency and support more effective future planning.
+Demand forecasting plays a vital role in supply chain management, enabling businesses to optimize procurement, inventory, and production while identifying market trends and planning for future operations. This project focuses on analyzing order quantities for various products, uncovering trends and relationships with influencing factors, and developing a predictive model to accurately forecast future demand. By doing so, it aims to enhance efficiency and support more effective future planning.
 
 ## Project Overview
 This project focuses on analyzing product order data and forecasting demand.
