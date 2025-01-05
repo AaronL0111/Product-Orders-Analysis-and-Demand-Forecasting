@@ -24,7 +24,7 @@ To run these notebooks, you will need:
 
 Python 3.8 or later
 Jupyter Notebook
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn (add additional dependencies if needed)
+Libraries: pandas, numpy, matplotlib, seaborn, and scikit-learn.
 
 ## Running Instructions
 
@@ -40,7 +40,7 @@ For a detailed understanding of the data preprocessing and the predictive model,
 
 ## Data sources
 
-The data used for this project can be found here 
+The data used for this project is from BdRace, which can be found [here]([https://agriculture.canada.ca/en/market-information-system/rp/index%2Deng.cfm?action=ePR&R=243&PDCTC=#clfinput_err](https://www.tipdm.org:10010/#/competition/1620719578957127680/introduce)). 
 
 ## Contributors
 - Aaron Liu
